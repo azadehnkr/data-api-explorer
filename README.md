@@ -14,12 +14,6 @@ A desktop application for exploring orthologous genes across model organisms and
 
 ---
 
-## Screenshots
-
-> _Add screenshots here once the app is running._
-
----
-
 ## Requirements
 
 | Requirement | Version |
