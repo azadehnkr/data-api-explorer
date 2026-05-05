@@ -135,6 +135,6 @@ Input genes are assumed to be *Danio rerio* (zebrafish) symbols, consistent with
 
 ## Acknowledgements
 
-Developed as part of CS 505 – Special Topics (Spring 2021) under Dr. Jamil at the Computer Science Department at the University of Idaho. 
+Developed as part of CS 505 – Special Topics under Dr. Jamil at the Computer Science Department at the University of Idaho. 
 Orthology data provided by the [Alliance of Genome Resources](https://www.alliancegenome.org/).  
 GO annotation data provided by [MyGene.info](https://mygene.info/).
