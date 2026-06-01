@@ -40,7 +40,8 @@ sudo apt install graphviz
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/azadehnkr/data-api-explorer
+cd data-api-explorer
 cd gene-orthology-explorer
 
 # 2. Create and activate a virtual environment
