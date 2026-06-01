@@ -36,34 +36,6 @@ sudo apt install graphviz
 
 ---
 
-## Setup
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/azadehnkr/data-api-explorer
-cd data-api-explorer
-cd gene-orthology-explorer
-
-# 2. Create and activate a virtual environment
-python -m venv .venv
-source .venv/bin/activate       # macOS / Linux
-.venv\Scripts\activate          # Windows
-
-# 3. Install Python dependencies
-pip install -r requirements.txt
-
-# 4. Download the orthology data file
-#    Go to: https://www.alliancegenome.org/downloads  →  Orthology section
-#    Download: ORTHOLOGY-ALLIANCE-JSON_COMBINED.json.gz
-#    Place it in the same folder as app.py
-
-# 5. Run
-python app.py
-```
-
-The app accepts both the compressed (`.json.gz`) and uncompressed (`.json`) versions of the data file — no manual decompression needed.
-
----
 
 ## Usage
 
